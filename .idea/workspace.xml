@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e263005d-1567-48cd-9c81-c423cf447034" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nginx/sites-available/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/sites-available/default.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-fpm/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/php-fpm/Dockerfile" afterDir="false" />
-    </list>
+    <list default="true" id="e263005d-1567-48cd-9c81-c423cf447034" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +59,7 @@
       <workItem from="1588829819069" duration="14000" />
       <workItem from="1588869793802" duration="10005000" />
       <workItem from="1588922774022" duration="19080000" />
-      <workItem from="1589090465134" duration="550000" />
+      <workItem from="1589090465134" duration="734000" />
     </task>
     <servers />
   </component>
