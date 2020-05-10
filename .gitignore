@@ -1,0 +1,5 @@
+/.idea
+/logs
+/supervisord.d
+/php-fpm/cmake/*
+.env

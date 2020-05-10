@@ -354,6 +354,7 @@ RUN if [ ${INSTALL_SWOOLE} = true ]; then \
     make -j 4 && make install && \
     echo "extension=swoole_async.so" >> /usr/local/etc/php/conf.d/docker-php-ext-swoole.ini \
 ;fi
+#手动下载cmake
 #COPY ./cmake  /usr/src/cmake
 #
 #WORKDIR /usr/src/cmake
