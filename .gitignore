@@ -1,5 +1,5 @@
 /.idea
 /logs
-/supervisord.d
-/php-fpm/cmake/*
+/sup
 .env
+.env.example
